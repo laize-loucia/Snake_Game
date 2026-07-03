@@ -10,7 +10,7 @@ L'enfant peut jouer au jeux sous le contrôle du parent qui a le mot de passe et
 Le pseudo est admin et le mot de passe pour jouer est *1234*
 
 
-# Structure souhaitée
+# Structure 
 
 <center>
 
