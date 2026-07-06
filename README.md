@@ -13,6 +13,15 @@ Le jeu s'adresse aux enfants de 6 à 10 ans. Le pseudo est admin et le mot de pa
 - Page d'accueil : Interface principale du projet
 - Écran de fin : Affichage quand le joueur perd
 
+
+## Technologies utilisées
+
+- HTML5
+- CSS3 
+- JavaScript
+- PHP (sessions)
+
+
 ## Structure du projet
 
 <center>
@@ -23,14 +32,6 @@ Le jeu s'adresse aux enfants de 6 à 10 ans. Le pseudo est admin et le mot de pa
 
 &nbsp;
 En raison d'un délai imposé d'1 semaine, nous n'avons pas eu le temps de développer cette arborescence de fichiers. 
-
-
-## Technologies utilisées
-
-- HTML5
-- CSS3 
-- JavaScript
-- PHP (sessions)
 
 
 # Installation
