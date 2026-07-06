@@ -3,9 +3,6 @@
 
 Nous avons développé un mini-jeu interactif de snake dans le cadre du projet IHM (Interface Homme-Machine) pour la licence CNAM.     
 Le projet combine le gameplay du célèbre jeu "Snake Game" pour enfants de 6 à 10 ans.
-
-L'interface est épurée et simple avec des boutons de call-to-action bien visibles. Le but est de ne pas disperser l'attention de l'enfant avec trop d'éléments et de détails.&nbsp;  
-
 L'enfant peut jouer au jeux sous le contrôle du parent qui a le mot de passe et l'accès au compte de mail.Le pseudo est admin et le mot de passe pour jouer est *1234*
 
 
@@ -20,7 +17,9 @@ L'enfant peut jouer au jeux sous le contrôle du parent qui a le mot de passe et
 ## Structure du projet
 
 <center>
-![Architecture](Structure.png "TRstrcuture").
+  
+![Architecture](Structure.png "TRstrcuture")
+
 </center>
 
 &nbsp;
@@ -37,10 +36,10 @@ En raison d'un délai imposé d'1 semaine, nous n'avons pas eu le temps de déve
 
 # Installation
 
-Clonez le dépôt
-Placez les fichiers dans le répertoire web de votre serveur (htdocs pour XAMPP)
-Accédez au projet via votre navigateur
-Ouvrir dans le navigateur ```php -S localhost:8000```
+Clonez le dépôt  
+Placez les fichiers dans le répertoire web de votre serveur (htdocs pour XAMPP)  
+Accédez au projet via votre navigateur  
+Ouvrir dans le navigateur ```php -S localhost:8000```  
 
 
 # License
