@@ -17,50 +17,29 @@ L'enfant peut jouer au jeux sous le contrôle du parent qui a le mot de passe et
 - Page d'accueil : Interface principale du projet
 - Écran de fin : Affichage quand le joueur perd
 
-# Structure du projet
+## Structure du projet
 
 <center>
-
 ![Architecture](Structure.png "TRstrcuture").
-
 </center>
 
-
 &nbsp;
-
 En raison d'un délai imposé d'1 semaine, nous n'avons pas eu le temps de développer cette arborescence de fichiers. 
 
 
-# Technologies
+## Technologies utilisées
 
-Le jeu est entièrement écrit en **JS** et tourne dans le navigateur.
+- HTML5
+- CSS3 
+- JavaScript
+- PHP (sessions)
 
-&nbsp;
-La partie back-end est codée en langage **PHP**, pour les fonctionnalités de gérer le score, vérifier le mot de passe, la connexion, détruire la session et garder en écrit les événements
 
 # Installation
+
 Clonez le dépôt
 Placez les fichiers dans le répertoire web de votre serveur (htdocs pour XAMPP)
 Accédez au projet via votre navigateur
-
-
-# Implémentation
-
-&nbsp;
-Installer PHP en local sur Linux (Ubuntu)
-```
-sudo apt update
-sudo apt install php
-```
-&nbsp;
-Vérifie que ça marche : 
-```
-php -v.
-```
-
-&nbsp;
-
-
 Ouvrir dans le navigateur ```php -S localhost:8000```
 
 
