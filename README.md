@@ -9,7 +9,7 @@ L'enfant peut jouer au jeux sous le contrôle du parent qui a le mot de passe et
 ## Fonctionnalités 
 
 - Page de connexion : Authentification utilisateur avec sessions PHP
-- Jeu interactif : Mini-jeu de type Flappy Bird
+- Jeu interactif : Mini-jeu de type Snake Game
 - Système de score : Suivi et affichage des scores
 - Page d'accueil : Interface principale du projet
 - Écran de fin : Affichage quand le joueur perd
